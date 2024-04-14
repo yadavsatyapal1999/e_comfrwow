@@ -1,0 +1,36 @@
+#outerNav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 98vw;
+    background-color: rgba(0, 0, 0, 0.897);
+    height: 4vw;
+  }
+  
+  .inputandsearch {
+    flex-grow: 1; 
+    display: flex; 
+    width: 30vw;
+    color: aliceblue;
+    padding: 0vw 0vw 0vw 25vw;
+  }
+  .menu{
+    color:white;
+    padding: 0vw 2vw;
+  }
+  .cart{
+    padding: 0vw 2vw;
+  }
+  .input>input{
+    width: 30vw;
+    height: 3.5vw;
+    font-size: 2vw;
+  }
+  .search{
+    background-color: blue;
+    padding: auto 0;
+  }
+  
+  
+  
+  
